@@ -1,0 +1,17 @@
+.link {
+  font-size: 16px;
+  text-decoration: none;
+  color: #1a1aff;
+}
+.link:hover{
+  color: black;
+}
+.body{
+  background-color:#ff6666;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  padding: 20px;
+}
+.header{
+  font-size: 35px;
+}
